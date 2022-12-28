@@ -1,3 +1,5 @@
+background color `#1ce794`
+
 # Cybersecurity Awareness
 
 This module helps you protect sensitive information, secure yourself online,
