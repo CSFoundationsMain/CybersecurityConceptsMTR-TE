@@ -13,5 +13,5 @@ When people use emotion, urgency, or incentives such as telling you, "your bank 
 
 Here's the situation: You're about to head to work. You put on your gloves and jacket, take and badge, and exit the door of your home. As you're leaving, you receive a text and see a weird link in the text. Here are some security tips to follow:
 
-Phishing tries to get you to share confidential information, like passwords or credit card numbers.
-Hover or focus over links before clicking. If you don’t recognize the site or it looks suspicious, don’t click. Links and attachments in phishing emails can have information-gathering malware. On a mobile device, hold your finger down over the link and it will preview.
+ * Phishing tries to get you to share confidential information, like passwords or credit card numbers.
+ * Hover or focus over links before clicking. If you don’t recognize the site or it looks suspicious, don’t click. Links and attachments in phishing emails can have information-gathering malware. On a mobile device, hold your finger down over the link and it will preview.
