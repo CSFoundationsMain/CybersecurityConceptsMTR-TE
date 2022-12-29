@@ -18,3 +18,12 @@ Here's the situation: You're about to head to work. You put on your gloves and j
 `unordered list`
  * Phishing tries to get you to share confidential information, like passwords or credit card numbers.
  * Hover or focus over links before clicking. If you don’t recognize the site or it looks suspicious, don’t click. Links and attachments in phishing emails can have information-gathering malware. On a mobile device, hold your finger down over the link and it will preview.
+
+`3rd largest heading`
+### Reduce Physical Security Risks
+
+Here's the situation: You're at work, and a co-worker requests you to badge them in since they've forgotten their work badge. Here are some security tips to follow:
+ * Always wear your badge on company grounds and avoid wearing them in public places.
+ * Don't use your badge or credentials to grant access for others.
+ * If you see someone without a badge, remind them to display it.
+ * Always check that your working environment is physically safe and protected.
