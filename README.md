@@ -1,7 +1,6 @@
 # Cybersecurity Concepts part 1
-Midterm Review (MTR)
 
-### Midterm Review requirements
+### Midterm Review (MTR) requirements
 This assignment mirrors the process you will experience on the day of your midterm exam
 and includes the following steps:
 
