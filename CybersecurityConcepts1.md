@@ -4,6 +4,7 @@
 
 `3rd largest heading`
 ### Defense in Depth
+`paragraph`
 A comprehensive strategy of including multiple layers of security
 within a system so that if one layer fails, another layer of security is already in place to
 stop the attack/unauthorized access.
@@ -16,6 +17,7 @@ stop the attack/unauthorized access.
 
 `3rd largest heading`
 ### Confidentiality
+`paragraph`
 The property that information is not disclosed to individuals,
 devices, or processes unless they have been authorized to access the information.
 `unordered list`
@@ -29,6 +31,7 @@ company, such as the supervisor and human resources.
 
 `3rd largest heading`
 ### Integrity
+`paragraph`
 The property that information, an information system, or a component of a
 system has not been modified or destroyed in an unauthorized manner.
 `unordered list`
