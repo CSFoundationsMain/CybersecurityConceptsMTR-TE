@@ -1,8 +1,8 @@
 /* Color Palette:
-background:    #FFFBEB
-primary:  #495579
-secondary:   #263159
-tertiary: #251749
+primary:    #FFFBEB
+secondary:  #495579
+tertiary:   #263159
+accent:     #251749    
 */
 
 html {
@@ -13,31 +13,35 @@ html {
 
 body {
     background-color: #251749;
-    color: #fff;
     font-family: 'Open Sans', sans-serif;
 }
 
 
-header, footer {
+header {
     background-color: #495579;
+    color: #FFFBEB; 
     padding: 1.5rem;
     margin: 1.2rem;
 }
 
 footer {
-    font-size: 0.9rem;
-    color: #fff;
+    background-color: #FFFBEB;
+    padding: 1.5rem;
+    margin: 1.2rem;
+    font-size: 0.5rem;
+    color: #251749
 }
 
 
-h1, h2 {
+h1,
+h2 {
     text-align: center;
 }
 
 img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 2rem;
+    max-width: 100%;
+    height: auto;
+    border-radius: 2rem;
 }
 
 li {
@@ -49,8 +53,8 @@ li {
     padding: 1.5rem;
     line-height: 2rem;
     background-color: #FFFBEB;
-    color: #251749;
-    font-size: 1.1rem;
+    color: #000;
+    font-size: 1rem;
 }
 
 .post p {
@@ -63,7 +67,7 @@ li {
 
 .source a {
     text-decoration: none;
-    color: #000;
+    color: #495579;
 }
 
 
@@ -74,13 +78,16 @@ li {
         flex-wrap: wrap;
         justify-content: space-around;
     }
-    
+
     .post {
-        width: 27%;
+        width: 25%;
+        font-size: 1.1rem;
     }
-    
+
     footer {
         display: flex;
         justify-content: space-around;
+        align-items: center;
+        font-size: 0.7rem;
     }
 }
